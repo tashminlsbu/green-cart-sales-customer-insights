@@ -2,6 +2,9 @@
 
 This project analyses sales and customer behaviour for Green Cart Ltd., a UK-based e-commerce company focused on eco-friendly household products.
 
+## Project Summary
+This project was focused on analysing Green Cart Ltd.’s sales and customer behaviour using merged transactional, product, and customer data. The analysis covered revenue performance, loyalty value, delivery issues, customer signup behaviour, and payment preferences. The goal was to turn raw data into business insights and practical recommendations.
+
 ## Project Objective
 The aim of this project was to clean and merge sales, product, and customer datasets, create new analytical features, explore business trends, and generate recommendations to support the company’s Q2 performance review.
 
