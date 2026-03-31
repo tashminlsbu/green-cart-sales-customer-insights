@@ -1,24 +1,24 @@
-# Green Cart Sales & Customer Behaviour Insights
+# Green Cart Ltd. | Sales & Customer Behaviour Insights
 
-This project analyses sales and customer behaviour for Green Cart Ltd., a UK-based e-commerce company focused on eco-friendly household products.
+## Overview
+This project analyses sales and customer behaviour for **Green Cart Ltd.**, a UK-based e-commerce company focused on eco-friendly household products. The work was completed to support a Q2 performance review and focused on turning raw sales, product, and customer data into clear business insights and recommendations.  
 
-## Project Summary
-This project was focused on analysing Green Cart Ltd.’s sales and customer behaviour using merged transactional, product, and customer data. The analysis covered revenue performance, loyalty value, delivery issues, customer signup behaviour, and payment preferences. The goal was to turn raw data into business insights and practical recommendations.
+## Objective
+The aim of this project was to:
 
-## Project Objective
-The aim of this project was to clean and merge sales, product, and customer datasets, create new analytical features, explore business trends, and generate recommendations to support the company’s Q2 performance review.
+- clean and merge multiple datasets
+- create useful business features
+- analyse revenue, customer behaviour, and delivery performance
+- answer key business questions with data
+- provide practical recommendations for the business
 
-## Files Included
-- `green-cart-sales-customer-insights.ipynb` – Jupyter Notebook with data cleaning, feature engineering, analysis, summary tables, and visualisations
-- `Green_Cart_Report.pdf` – Final report with key findings, business question answers, and recommendations
 
-## Key Analysis Areas
-- Weekly revenue trends by region
-- Product category performance
-- Customer behaviour by loyalty tier
-- Delivery delay analysis
-- Payment method preferences
-- Discount effectiveness
+## Dataset
+The analysis used three datasets:
+
+- `sales_data.csv`
+- `product_info.csv`
+- `customer_info.csv`
 
 ## Tools Used
 - Python
@@ -28,18 +28,37 @@ The aim of this project was to clean and merge sales, product, and customer data
 - Seaborn
 - Jupyter Notebook
 
-## Key Insights
-- Cleaning category generated the highest revenue
-- Gold loyalty customers created the most value
-- Discounts did not meaningfully increase quantity sold
-- East and North regions showed higher delivery delays
-- Q4 signup periods showed stronger customer purchasing activity
+## What I Did
+- cleaned and standardised raw data
+- handled missing values and duplicates
+- merged sales, product, and customer datasets
+- created new features such as revenue, order week, price band, days to order, email domain, and delayed delivery flag
+- built summary tables and visualisations
+- answered business questions from the brief with evidence
 
-## Business Recommendations
-- Reduce unnecessary discounting
-- Investigate delivery issues in delayed regions
-- Strengthen Gold loyalty retention and upgrade strategy
-- Prepare inventory and marketing plans for seasonal peaks
 
-## About This Portfolio Project
-This is part of my ongoing data analytics portfolio, where I apply data cleaning, feature engineering, exploratory analysis, and business storytelling to real-world style case studies.
+## Key Findings
+- The **Cleaning** category generated the highest revenue and sales volume.
+- **Gold** loyalty customers generated the most value, mainly through higher purchase frequency.
+- Discounts did **not** show a meaningful relationship with quantity sold.
+- Delivery delays were a key issue, with the **East** and **North** regions showing the highest delay rates in some price bands.
+- Customer activity was stronger in **Q4**, suggesting seasonal demand patterns.
+
+## Recommendations
+- reduce unnecessary discounting
+- investigate delivery issues in high-delay regions
+- strengthen Gold loyalty retention and upgrade strategy
+- prepare inventory and operations for stronger Q4 demand
+
+These recommendations come directly from the final report.
+
+## Repository Contents
+- `green-cart-sales-customer-insights.ipynb` — notebook with cleaning, feature engineering, analysis, and visualisations
+- `Green_Cart_Report.pdf` — final business report
+- `README.md` — project summary
+
+## Project Value
+This project demonstrates my ability to work through an end-to-end analytics task: from data cleaning and feature engineering to insight generation and business-focused recommendations. The final output was designed for a non-technical audience, with clear visuals and practical conclusions.
+
+## Author
+**Tashmin Hasan**
