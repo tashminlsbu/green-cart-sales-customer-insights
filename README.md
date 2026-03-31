@@ -1,24 +1,26 @@
-# Green Cart Sales & Customer Behaviour Insights
+# Green Cart Ltd. | Sales & Customer Behaviour Insights
 
-This project analyses sales and customer behaviour for Green Cart Ltd., a UK-based e-commerce company focused on eco-friendly household products.
+## Project Snapshot
+This project analyses sales and customer behaviour for **Green Cart Ltd.**, a UK-based e-commerce company specialising in eco-friendly household products.
 
-## Project Summary
-This project was focused on analysing Green Cart Ltd.’s sales and customer behaviour using merged transactional, product, and customer data. The analysis covered revenue performance, loyalty value, delivery issues, customer signup behaviour, and payment preferences. The goal was to turn raw data into business insights and practical recommendations.
+Using Python, I cleaned and merged sales, product, and customer datasets to uncover trends in revenue, loyalty value, discount performance, delivery delays, and regional behaviour. The final output combined technical analysis with business-focused recommendations for a non-technical audience.
 
-## Project Objective
-The aim of this project was to clean and merge sales, product, and customer datasets, create new analytical features, explore business trends, and generate recommendations to support the company’s Q2 performance review.
+## Business Problem
+Green Cart Ltd. needed clearer insight into:
 
-## Files Included
-- `green-cart-sales-customer-insights.ipynb` – Jupyter Notebook with data cleaning, feature engineering, analysis, summary tables, and visualisations
-- `Green_Cart_Report.pdf` – Final report with key findings, business question answers, and recommendations
+- which product categories generate the most revenue
+- whether discounts increase sales volume
+- which customer segments create the most value
+- where delivery performance is falling behind
+- how customer signup patterns relate to purchasing behaviour
 
-## Key Analysis Areas
-- Weekly revenue trends by region
-- Product category performance
-- Customer behaviour by loyalty tier
-- Delivery delay analysis
-- Payment method preferences
-- Discount effectiveness
+## What I Delivered
+- cleaned and standardised raw datasets
+- merged sales, product, and customer data into one analytical dataset
+- engineered new features such as revenue, order week, price band, days to order, email domain, and delay flag
+- created summary tables and visualisations
+- answered key business questions from the brief
+- produced practical recommendations based on the findings
 
 ## Tools Used
 - Python
@@ -28,18 +30,36 @@ The aim of this project was to clean and merge sales, product, and customer data
 - Seaborn
 - Jupyter Notebook
 
-## Key Insights
-- Cleaning category generated the highest revenue
-- Gold loyalty customers created the most value
-- Discounts did not meaningfully increase quantity sold
-- East and North regions showed higher delivery delays
-- Q4 signup periods showed stronger customer purchasing activity
+## Analysis Areas
+- revenue trends by region
+- product category performance
+- customer value by loyalty tier
+- delivery delay analysis
+- payment method preferences
+- discount effectiveness
+- signup behaviour patterns
+
+## Key Findings
+- The **Cleaning** category was the strongest revenue driver.
+- **Gold** loyalty customers generated the highest overall value.
+- Discounts did **not** show a meaningful link with higher quantity sold.
+- Delivery delays were more visible in the **East** and **North** regions.
+- Customer activity appeared stronger in **Q4**, suggesting seasonal demand patterns.
 
 ## Business Recommendations
-- Reduce unnecessary discounting
-- Investigate delivery issues in delayed regions
-- Strengthen Gold loyalty retention and upgrade strategy
-- Prepare inventory and marketing plans for seasonal peaks
+- reduce unnecessary discounting and focus on value-led promotions
+- investigate operational causes of delivery delays in weaker regions
+- strengthen retention and upgrade paths for high-value loyalty customers
+- prepare inventory and fulfilment planning ahead of stronger Q4 demand
 
-## About This Portfolio Project
-This is part of my ongoing data analytics portfolio, where I apply data cleaning, feature engineering, exploratory analysis, and business storytelling to real-world style case studies.
+## Repository Contents
+- `green-cart-sales-customer-insights.ipynb` — full notebook with cleaning, feature engineering, analysis, and visualisations
+- `Green_Cart_Report.pdf` — final report with findings and recommendations
+- `README.md` — project summary
+
+## Why This Project Matters
+This project demonstrates my ability to take a business question from raw data through to insight and recommendation. It reflects core data analyst skills including data cleaning, feature engineering, exploratory analysis, visual storytelling, and translating findings into clear business actions.
+
+## Author
+**Tashmin Hasan**  
+Aspiring Data Analyst | Python | SQL | Power BI | Tableau
