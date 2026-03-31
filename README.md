@@ -74,4 +74,4 @@ This project demonstrates my ability to take a business question from raw data t
 
 ## Author
 **Tashmin Hasan**  
-Data Analyst Portfolio | Python | SQL | Power BI | Tableau
+Aspiring Data Analyst Portfolio | Python | SQL | Power BI | Tableau
