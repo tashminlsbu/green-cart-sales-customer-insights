@@ -46,6 +46,18 @@ Green Cart Ltd. needed clearer insight into:
 - Delivery delays were more visible in the **East** and **North** regions.
 - Customer activity appeared stronger in **Q4**, suggesting seasonal demand patterns.
 
+## Sample Visuals
+
+### Weekly Revenue Trend by Region
+This chart shows how revenue changed over time across regions and highlights the strongest performing periods.
+
+![Weekly Revenue Trend by Region](images/weekly_revenue_trend.png)
+
+### Delivery Delay Heatmap by Region and Price Band
+This heatmap highlights where delivery delays were highest, helping identify operational problem areas.
+
+![Delivery Delay Heatmap](images/delivery_delay_heatmap.png)
+
 ## Business Recommendations
 - reduce unnecessary discounting and focus on value-led promotions
 - investigate operational causes of delivery delays in weaker regions
