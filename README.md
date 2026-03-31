@@ -54,7 +54,7 @@ Green Cart Ltd. needed clearer insight into:
 
 ## Repository Contents
 - `green-cart-sales-customer-insights.ipynb` — full notebook with cleaning, feature engineering, analysis, and visualisations
-- `Green_Cart_Report.pdf` — final report with findings and recommendations
+- `Green_Cart_Report1.pdf` — final report with findings and recommendations
 - `README.md` — project summary
 
 ## Why This Project Matters
@@ -62,4 +62,4 @@ This project demonstrates my ability to take a business question from raw data t
 
 ## Author
 **Tashmin Hasan**  
-Aspiring Data Analyst | Python | SQL | Power BI | Tableau
+Data Analyst Portfolio | Python | SQL | Power BI | Tableau
